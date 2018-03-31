@@ -73,5 +73,5 @@ describe('Arrays', function() {
   })
 
 })
-var kittens = ["Milo", "Otis", "Garfield"];
+
 
